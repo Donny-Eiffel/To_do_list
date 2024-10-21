@@ -29,6 +29,7 @@ form{
     padding: 5px 10px;
     height: 20px;
     background: transparent;
+    color: #ffffff;
  }
  form input::placeholder{
     color: white;
